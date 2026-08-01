@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm N.Jaswanth 
+🎓 Computer Science & Engineering Undergrad 
+I'm a CS student with a strong passion for **data science and machine learning 
