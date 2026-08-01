@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 I'm N.Jaswanth 
 🎓 Computer Science & Engineering Undergrad 
-I'm a CS student with a strong passion for data science and machine learning 
-I have build projects which are may be or may not be unique but they solve real world problems 
-currently I am Learning  Deep Learning to get more expose in solving the Unstructured data and create models with it 
+I'm a CS student with a strong passion for data science and machine learning <br>
+I have build projects which are may be or may not be unique but they solve real world problems <br> 
+currently I am Learning  Deep Learning to get more expose in solving the Unstructured data and create models with it <br>
 
 The tools that I use to reach this goal are <br>
 <b>1.Python(numpy,pandas,scikit-learn)</b><br>
