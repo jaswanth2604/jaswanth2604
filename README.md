@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm N.Jaswanth 
-🎓 Computer Science & Engineering Undergrad 
+🎓 Computer Science & Engineering Undergrad <br>
 I'm a CS student with a strong passion for data science and machine learning <br>
 I have build projects which are may be or may not be unique but they solve real world problems <br> 
 currently I am Learning  Deep Learning to get more expose in solving the Unstructured data and create models with it <br>
