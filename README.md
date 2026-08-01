@@ -21,9 +21,9 @@ I have build projects which are may be or may not be unique but they solve real 
 currently I am Learning  Deep Learning to get more expose in solving the Unstructured data and create models with it 
 
 The tools that I use to reach this goal are <br>
-<b>python(numpy,pandas,scikit-learn)</b>
-<b>SQL</b>
-<b>Jupyter Noteook</b>
-<b>Spyder</b>
+<b>1.Python(numpy,pandas,scikit-learn)</b><br>
+<b>2.SQL</b><br>
+<b>3.Jupyter Noteook</b><br>
+<b>4.Spyder</b><br>
 
 You can find me here at [Linkedin](https://www.linkedin.com/in/jaswanth-nenavath-481b52383/?trk=public-profile-join-page)
