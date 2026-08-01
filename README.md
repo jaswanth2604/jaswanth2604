@@ -20,10 +20,10 @@ I'm a CS student with a strong passion for data science and machine learning
 I have build projects which are may be or may not be unique but they solve real world problems 
 currently I am Learning  Deep Learning to get more expose in solving the Unstructured data and create models with it 
 
-The tools that I use to reach this goal are 
-**python(numpy,pandas,scikit-learn)
-**SQL
-**Jupyter Noteook
-**Spyder
+The tools that I use to reach this goal are <br>
+<b>python(numpy,pandas,scikit-learn)</b>
+<b>SQL</b>
+<b>Jupyter Noteook</b>
+<b>Spyder</b>
 
 You can find me here at [Linkedin](https://www.linkedin.com/in/jaswanth-nenavath-481b52383/?trk=public-profile-join-page)
